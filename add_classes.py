@@ -114,7 +114,7 @@ if __name__ == "__main__":
             parts = [p.strip().replace(" ", "_") for p in raw_prereqs.split(",")]
             prereq_list = [f"[[{p}]]" for p in parts]
 
-        filename = f"{code}.md"
+        filename = f"{name}_{code}.md"
         filepath = os.path.join(output_dir, filename)
 
         content = f"""---

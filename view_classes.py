@@ -1,7 +1,7 @@
 import json
 
-# Your list of courses (using the data you provided)
 
+# List of the courses
 codes = [
     # متطلبات الجامعة
     {"name": "رياضيات عامة (1)", "code": "MT103", "prerequisites": "لا يوجد"},
@@ -103,6 +103,7 @@ def generate_topological_canvas(course_list, output_name="Degree_Map.canvas"):
     edges = []
 
     # Visual Layout Constants
+    # The values are high because for visability
     node_w, node_h = 560, 200
     x_gap, y_gap = 640, 1600
 
@@ -153,14 +154,11 @@ def generate_topological_canvas(course_list, output_name="Degree_Map.canvas"):
             clean_code = item["code"].replace(" ", "_")
             node_id = code_to_id[clean_code]
 
-            # Text Node with Markdown Link
-            node_text = f"# {item['name']} [[{clean_code}|{item['code']}]]"
-
             nodes.append(
                 {
                     "id": node_id,
-                    "type": "text",
-                    "text": node_text,
+                    "type": "file",
+                    "file": f"University_Mind_Map/{item['name']}_{clean_code}.md",
                     "x": col_idx * (node_w + x_gap),
                     "y": row_idx * (node_h + y_gap),
                     "width": node_w,

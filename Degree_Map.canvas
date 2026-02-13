@@ -1,0 +1,796 @@
+{
+    "nodes": [
+        {
+            "id": "node_0",
+            "type": "file",
+            "file": "University_Mind_Map/\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0645\u0629 (1)_MT103.md",
+            "x": 0,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_2",
+            "type": "file",
+            "file": "University_Mind_Map/\u0625\u062d\u0635\u0627\u0621 \u0631\u064a\u0627\u0636\u064a_MT131.md",
+            "x": 1200,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_4",
+            "type": "file",
+            "file": "University_Mind_Map/\u062c\u0628\u0631_MT101.md",
+            "x": 2400,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_5",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u064a\u0643\u0627\u0646\u064a\u0643\u0627 \u0639\u0627\u0645\u0629_MT105.md",
+            "x": 3600,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_6",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u0628\u0627\u062f\u0626 \u0627\u0644\u0628\u0631\u0645\u062c\u0629_MT162.md",
+            "x": 4800,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_17",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0646\u0638\u064a\u0645 \u0627\u0644\u062d\u0627\u0633\u0628_MT265.md",
+            "x": 6000,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_19",
+            "type": "file",
+            "file": "University_Mind_Map/\u0631\u0633\u0648\u0645\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0628_MT363.md",
+            "x": 7200,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_22",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u062d\u0644\u064a\u0644 \u0648\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u0646\u0638\u0645_MT368.md",
+            "x": 8400,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_26",
+            "type": "file",
+            "file": "University_Mind_Map/\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0628_MT461.md",
+            "x": 9600,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_28",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0623\u0639\u062f\u0627\u062f_MT401.md",
+            "x": 10800,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_30",
+            "type": "file",
+            "file": "University_Mind_Map/\u0628\u062d\u062b \u0648\u0645\u0642\u0627\u0644_MT490.md",
+            "x": 12000,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_38",
+            "type": "file",
+            "file": "University_Mind_Map/\u0628\u062d\u0648\u062b \u0639\u0645\u0644\u064a\u0627\u062a_MT388.md",
+            "x": 13200,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_45",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0645\u062e\u062a\u0627\u0631\u0629 \u0644\u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0628 (1)_MT475.md",
+            "x": 14400,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_52",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u0648\u0636\u0648\u0639\u0627\u062a \u0645\u062e\u062a\u0627\u0631\u0629 \u0641\u064a \u0639\u0644\u0648\u0645 \u0627\u0644\u062d\u0627\u0633\u0628 (2)_MT485.md",
+            "x": 15600,
+            "y": 0,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_1",
+            "type": "file",
+            "file": "University_Mind_Map/\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0639\u0627\u0645\u0629 (2)_MT104.md",
+            "x": 0,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_7",
+            "type": "file",
+            "file": "University_Mind_Map/\u062c\u0628\u0631 \u062e\u0637\u064a \u0648\u0647\u0646\u062f\u0633\u0629 (1)_MT201.md",
+            "x": 1200,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_9",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u0642\u062f\u0645\u0629 \u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0627\u062d\u062a\u0645\u0627\u0644\u0627\u062a_MT231.md",
+            "x": 2400,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_11",
+            "type": "file",
+            "file": "University_Mind_Map/\u0644\u063a\u0629 \u0628\u0631\u0645\u062c\u0629 (1)_MT261.md",
+            "x": 3600,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_15",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u0642\u0637\u0639\u0629_MT203.md",
+            "x": 4800,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_18",
+            "type": "file",
+            "file": "University_Mind_Map/\u0628\u0646\u0627\u0621 \u0627\u0644\u062d\u0627\u0633\u0628_MT362.md",
+            "x": 6000,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_39",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0623\u0648\u062a\u0648\u0645\u0627\u062a\u064a\u0643\u064a\u0629 \u0648\u0627\u0644\u0644\u063a\u0627\u062a \u0627\u0644\u0634\u0643\u0644\u064a\u0629_MT462.md",
+            "x": 7200,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_44",
+            "type": "file",
+            "file": "University_Mind_Map/\u0631\u0633\u0648\u0645\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0628 \u0627\u0644\u0645\u062a\u0642\u062f\u0645\u0629_MT469.md",
+            "x": 8400,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_46",
+            "type": "file",
+            "file": "University_Mind_Map/\u0634\u0628\u0643\u0627\u062a \u062d\u0627\u0633\u0628 \u0645\u062a\u0642\u062f\u0645\u0629_MT470.md",
+            "x": 9600,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_48",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0630\u0643\u064a\u0629_MT480.md",
+            "x": 10800,
+            "y": 1800,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_10",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0627\u062a \u0627\u0644\u062a\u0641\u0627\u0636\u0644\u064a\u0629 \u0627\u0644\u0639\u0627\u062f\u064a\u0629_MT210.md",
+            "x": 0,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_8",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0631\u064a\u0627\u0636\u064a (1)_MT206.md",
+            "x": 1200,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_12",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0628\u0631\u0645\u062c\u0629 \u0627\u0644\u0645\u0648\u062c\u0647\u0629_MT263.md",
+            "x": 2400,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_13",
+            "type": "file",
+            "file": "University_Mind_Map/\u062c\u0628\u0631 \u062e\u0637\u064a \u0648\u0647\u0646\u062f\u0633\u0629 (2)_MT202.md",
+            "x": 3600,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_16",
+            "type": "file",
+            "file": "University_Mind_Map/\u0647\u064a\u0627\u0643\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0627\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a_MT264.md",
+            "x": 4800,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_34",
+            "type": "file",
+            "file": "University_Mind_Map/\u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0635\u0648\u0631_MT387.md",
+            "x": 6000,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_36",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u0637\u0648\u0627\u0628\u064a\u0631_MT379.md",
+            "x": 7200,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_42",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0635\u0645\u064a\u0645 \u0635\u0641\u062d\u0627\u062a \u0648\u064a\u0628_MT477.md",
+            "x": 8400,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_49",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0635\u0645\u064a\u0645 \u0644\u063a\u0627\u062a \u0627\u0644\u0628\u0631\u0645\u062c\u0629_MT463.md",
+            "x": 9600,
+            "y": 3600,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_31",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0639\u062f\u062f\u064a (1)_MT313.md",
+            "x": 0,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_14",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0631\u064a\u0627\u0636\u064a (2)_MT215.md",
+            "x": 1200,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_20",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u062d\u0644\u064a\u0644 \u0648\u062a\u0635\u0645\u064a\u0645 \u0627\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a_MT364.md",
+            "x": 2400,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_21",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0645 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a_MT366.md",
+            "x": 3600,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_23",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0628\u0631\u0645\u062c\u064a\u0627\u062a_MT380.md",
+            "x": 4800,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_33",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0646\u0638\u064a\u0645 \u0648 \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0645\u0644\u0641\u0627\u062a_MT369.md",
+            "x": 6000,
+            "y": 5400,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_24",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0645 \u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u062d\u0627\u0633\u0628_MT365.md",
+            "x": 0,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_25",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0635\u0645\u064a\u0645 \u0642\u0648\u0627\u0639\u062f \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a_MT367.md",
+            "x": 1200,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_29",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u062a\u0634\u0641\u064a\u0631_MT478.md",
+            "x": 2400,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_32",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 (1)_MT319.md",
+            "x": 3600,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_35",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0634\u0628\u0643\u0627\u062a \u0627\u0644\u0639\u0635\u0628\u064a\u0629_MT375.md",
+            "x": 4800,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_40",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0645\u062d\u0627\u0643\u0627\u0629 \u0648\u0627\u0644\u0646\u0645\u0630\u062c\u0629_MT476.md",
+            "x": 6000,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_41",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0645 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a_MT465.md",
+            "x": 7200,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_50",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0631\u064a\u0629 \u0627\u0644\u062a\u062d\u0643\u0645 \u0627\u0644\u0623\u0645\u062b\u0644 (1)_MT420.md",
+            "x": 8400,
+            "y": 7200,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_27",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0625\u0635\u0637\u0646\u0627\u0639\u064a_MT464.md",
+            "x": 0,
+            "y": 9000,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_37",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0637\u0631\u0642 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0629 (2)_MT320.md",
+            "x": 1200,
+            "y": 9000,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_43",
+            "type": "file",
+            "file": "University_Mind_Map/\u0627\u0644\u0646\u0638\u0645 \u0627\u0644\u0645\u0648\u0632\u0639\u0629_MT473.md",
+            "x": 2400,
+            "y": 9000,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_47",
+            "type": "file",
+            "file": "University_Mind_Map/\u0646\u0638\u0645 \u062a\u0634\u063a\u064a\u0644 \u0645\u062a\u0642\u062f\u0645_MT471.md",
+            "x": 3600,
+            "y": 9000,
+            "width": 560,
+            "height": 200
+        },
+        {
+            "id": "node_51",
+            "type": "file",
+            "file": "University_Mind_Map/\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a_MT472.md",
+            "x": 0,
+            "y": 10800,
+            "width": 560,
+            "height": 200
+        }
+    ],
+    "edges": [
+        {
+            "id": "edge_MT103_MT104",
+            "fromNode": "node_0",
+            "fromSide": "bottom",
+            "toNode": "node_1",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT101_MT201",
+            "fromNode": "node_4",
+            "fromSide": "bottom",
+            "toNode": "node_7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT105_MT201",
+            "fromNode": "node_5",
+            "fromSide": "bottom",
+            "toNode": "node_7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT104_MT206",
+            "fromNode": "node_1",
+            "fromSide": "bottom",
+            "toNode": "node_8",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT131_MT231",
+            "fromNode": "node_2",
+            "fromSide": "bottom",
+            "toNode": "node_9",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT104_MT210",
+            "fromNode": "node_1",
+            "fromSide": "bottom",
+            "toNode": "node_10",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT162_MT261",
+            "fromNode": "node_6",
+            "fromSide": "bottom",
+            "toNode": "node_11",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT261_MT263",
+            "fromNode": "node_11",
+            "fromSide": "bottom",
+            "toNode": "node_12",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT201_MT202",
+            "fromNode": "node_7",
+            "fromSide": "bottom",
+            "toNode": "node_13",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT206_MT215",
+            "fromNode": "node_8",
+            "fromSide": "bottom",
+            "toNode": "node_14",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT101_MT203",
+            "fromNode": "node_4",
+            "fromSide": "bottom",
+            "toNode": "node_15",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT261_MT264",
+            "fromNode": "node_11",
+            "fromSide": "bottom",
+            "toNode": "node_16",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT265_MT362",
+            "fromNode": "node_17",
+            "fromSide": "bottom",
+            "toNode": "node_18",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT264_MT364",
+            "fromNode": "node_16",
+            "fromSide": "bottom",
+            "toNode": "node_20",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT264_MT366",
+            "fromNode": "node_16",
+            "fromSide": "bottom",
+            "toNode": "node_21",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT263_MT380",
+            "fromNode": "node_12",
+            "fromSide": "bottom",
+            "toNode": "node_23",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT364_MT365",
+            "fromNode": "node_20",
+            "fromSide": "bottom",
+            "toNode": "node_24",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT366_MT367",
+            "fromNode": "node_21",
+            "fromSide": "bottom",
+            "toNode": "node_25",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT365_MT464",
+            "fromNode": "node_24",
+            "fromSide": "bottom",
+            "toNode": "node_27",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT365_MT464",
+            "fromNode": "node_24",
+            "fromSide": "bottom",
+            "toNode": "node_27",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT364_MT478",
+            "fromNode": "node_20",
+            "fromSide": "bottom",
+            "toNode": "node_29",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT231_MT478",
+            "fromNode": "node_9",
+            "fromSide": "bottom",
+            "toNode": "node_29",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT210_MT313",
+            "fromNode": "node_10",
+            "fromSide": "bottom",
+            "toNode": "node_31",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT104_MT313",
+            "fromNode": "node_1",
+            "fromSide": "bottom",
+            "toNode": "node_31",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT210_MT319",
+            "fromNode": "node_10",
+            "fromSide": "bottom",
+            "toNode": "node_32",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT215_MT319",
+            "fromNode": "node_14",
+            "fromSide": "bottom",
+            "toNode": "node_32",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT264_MT369",
+            "fromNode": "node_16",
+            "fromSide": "bottom",
+            "toNode": "node_33",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT261_MT387",
+            "fromNode": "node_11",
+            "fromSide": "bottom",
+            "toNode": "node_34",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT364_MT375",
+            "fromNode": "node_20",
+            "fromSide": "bottom",
+            "toNode": "node_35",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT231_MT379",
+            "fromNode": "node_9",
+            "fromSide": "bottom",
+            "toNode": "node_36",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT319_MT320",
+            "fromNode": "node_32",
+            "fromSide": "bottom",
+            "toNode": "node_37",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT368_MT462",
+            "fromNode": "node_22",
+            "fromSide": "bottom",
+            "toNode": "node_39",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT364_MT476",
+            "fromNode": "node_20",
+            "fromSide": "bottom",
+            "toNode": "node_40",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT231_MT476",
+            "fromNode": "node_9",
+            "fromSide": "bottom",
+            "toNode": "node_40",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT368_MT465",
+            "fromNode": "node_22",
+            "fromSide": "bottom",
+            "toNode": "node_41",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT366_MT465",
+            "fromNode": "node_21",
+            "fromSide": "bottom",
+            "toNode": "node_41",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT362_MT477",
+            "fromNode": "node_18",
+            "fromSide": "bottom",
+            "toNode": "node_42",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT365_MT473",
+            "fromNode": "node_24",
+            "fromSide": "bottom",
+            "toNode": "node_43",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT363_MT469",
+            "fromNode": "node_19",
+            "fromSide": "bottom",
+            "toNode": "node_44",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT461_MT470",
+            "fromNode": "node_26",
+            "fromSide": "bottom",
+            "toNode": "node_46",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT365_MT471",
+            "fromNode": "node_24",
+            "fromSide": "bottom",
+            "toNode": "node_47",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT461_MT480",
+            "fromNode": "node_26",
+            "fromSide": "bottom",
+            "toNode": "node_48",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT462_MT463",
+            "fromNode": "node_39",
+            "fromSide": "bottom",
+            "toNode": "node_49",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT215_MT420",
+            "fromNode": "node_14",
+            "fromSide": "bottom",
+            "toNode": "node_50",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT210_MT420",
+            "fromNode": "node_10",
+            "fromSide": "bottom",
+            "toNode": "node_50",
+            "toSide": "top"
+        },
+        {
+            "id": "edge_MT464_MT472",
+            "fromNode": "node_27",
+            "fromSide": "bottom",
+            "toNode": "node_51",
+            "toSide": "top"
+        }
+    ]
+}
