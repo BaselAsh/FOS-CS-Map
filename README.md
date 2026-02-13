@@ -103,3 +103,5 @@ graph TD
     MT464 --> MT472
     MT485["موضوعات مختارة في علوم الحاسب (2)<br>(MT485)"]
 ```
+
+![Suez Degree Map](./Degree_Map.png)
